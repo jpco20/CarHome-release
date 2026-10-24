@@ -1,0 +1,4 @@
+{
+  "carhome": { "versionCode": 204, "versionName": "1.104", "apk": "CarHome.apk" },
+  "wifi":    { "versionCode": 152, "versionName": "1.52", "apk": "CarHomeWiFi.apk" }
+}
